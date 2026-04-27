@@ -258,7 +258,7 @@ Dynamic UI rendering
 <img src="https://img.shields.io/badge/Telegram-Message-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
 
-<a href="https://wa.me/00967776511448">
+<a href="https://wa.me/+967776511448">
 <img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 
