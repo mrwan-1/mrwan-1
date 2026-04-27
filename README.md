@@ -68,18 +68,16 @@ Key Responsibilities:
 
 <p align="center">
 
-<img src="https://cdn.simpleicons.org/shopify" height="48" alt="Shopify" />
-<img src="https://cdn.simpleicons.org/woocommerce" height="48" alt="WooCommerce" />
-<img src="https://cdn.simpleicons.org/wordpress" height="48" alt="WordPress" />
-
-<br><br>
-
-<img src="https://cdn.simpleicons.org/googleads" height="48" alt="Google Ads" />
-<img src="https://cdn.simpleicons.org/meta" height="48" alt="Meta Ads" />
-<img src="https://cdn.simpleicons.org/snapchat" height="48" alt="Snapchat Ads" />
-<img src="https://cdn.simpleicons.org/tiktok" height="48" alt="TikTok Ads" />
+<img src="https://cdn.simpleicons.org/shopify" height="40" />
+<img src="https://cdn.simpleicons.org/woocommerce" height="40" />
+<img src="https://cdn.simpleicons.org/wordpress" height="40" />
+<img src="https://cdn.simpleicons.org/googleads" height="40" />
+<img src="https://cdn.simpleicons.org/meta" height="40" />
+<img src="https://cdn.simpleicons.org/snapchat" height="40" />
+<img src="https://cdn.simpleicons.org/tiktok" height="40" />
 
 </p>
+
 
 ---
 
