@@ -1,123 +1,68 @@
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Flutter+Developer+(4%2B+years);Full+Stack+Developer+(React+%26+Node.js);Building+Production+Systems;Clean+Architecture+%26+Performance+Optimization&center=true&width=600&height=50">
+</p>
+
 <h1 align="center">Hi 👋, I'm Marwan Abdullah Al-Khawlani</h1>
 
 <h3 align="center">
-Flutter Developer (4+ years) | Full-Stack Developer (React, Node.js)
+Flutter Developer (4+ years) | Full Stack Developer (React, Node.js)
 </h3>
 
 <p align="center">
-I build production-ready mobile and web systems with a strong focus on performance, reliability, and scalable integrations.
+I build production-ready mobile and web systems with strong focus on performance, scalability, caching, and real-world integrations.
 </p>
 
 ---
 
-## About Me
+## 🚀 About Me
 
-Software developer with strong experience in Flutter application development and hands-on experience building backend and web systems using Node.js and React.js.
-
-I focus on building real-world systems that handle complex workflows, integrations, caching strategies, and data synchronization across platforms.
-
----
-
-## Experience Summary
-
-* 4+ years building production Flutter applications
-* 1 year experience in Full-Stack development (React & Node.js)
-* Building scalable booking and service platforms
+* 4+ years experience building production Flutter applications
+* 1 year experience building backend and web systems
+* Building SaaS systems and automation workflows
 * Designing reusable state management and caching frameworks
-* Implementing real-time workflows and chatbot systems
-* Performance optimization and API integration
+* Integrating systems with external platforms and APIs
+* Focused on performance, reliability, and maintainability
 
 ---
 
-## Core Capabilities
+## 🛠️ My Skill Set
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,react,nodejs,redis,mongodb,mysql,git,docker,linux,html,css,js,ts" />
+
+</p>
+
+---
+
+## 🧠 Core Capabilities
 
 * Building production-grade systems
-* Designing scalable application workflows
 * API integrations across platforms
 * Caching and performance optimization
 * Real-time data processing
 * System reliability and maintainability
-* Automation and workflow design
+* Automation workflows
+* Scalable architecture design
 
 ---
 
-## Tech Stack
+# 🏗️ Production Systems
 
-Mobile
-
-Flutter
-Dart
-
-Frontend
-
-React.js
-
-Backend
-
-Node.js
-Express.js
-
-Caching
-
-Redis
-In-memory caching
-TTL expiration
-Stale-While-Revalidate (SWR)
-
-Databases
-
-MongoDB
-MySQL
-
-Integrations
-
-Salla
-Zid
-Shopify
-WooCommerce
-WordPress
-
-Advertising Platforms
-
-Meta Ads
-Snapchat Ads
-TikTok Ads
-Google Ads
-
-Architecture
-
-Clean Architecture
-REST API
-Modular Architecture
-Feature-based Architecture
-
-Tools
-
-Git
-GitHub
-Postman
-Docker
-
----
-
-# Production Systems
-
-## Growth Engine — Commerce Growth & Marketing Intelligence Platform
+## 🚀 Growth Engine — Commerce Growth & Marketing Intelligence Platform
 
 A SaaS platform designed to help online businesses manage marketing performance, customer behavior, and automation workflows.
 
-The system integrates with multiple e-commerce and advertising platforms and processes data in real time to provide actionable insights.
-
-Key Responsibilities
+Key Responsibilities:
 
 * Built backend services using Node.js
 * Implemented caching using Redis
 * Designed system workflows and integrations
-* Integrated with multiple commerce platforms
+* Integrated with e-commerce platforms
 * Integrated with advertising platforms
 * Built dashboards and automation features
 
-Tech
+Tech Stack:
 
 React.js
 Node.js
@@ -125,13 +70,13 @@ Redis
 
 ---
 
-## Order Risk Evaluation System — Salla Integration
+## 🔐 Order Risk Evaluation System — Salla Integration
 
 A system designed to evaluate customer reliability before confirming orders.
 
-The system analyzes customer behavior patterns to reduce operational risks and prevent financial loss.
+The system analyzes customer behavior patterns to reduce risks and prevent financial loss.
 
-Key Features
+Key Features:
 
 * Customer reliability scoring
 * Order risk evaluation
@@ -139,7 +84,7 @@ Key Features
 * Real-time decision support
 * Integration with Salla platform
 
-Tech
+Tech Stack:
 
 Node.js
 React.js
@@ -148,11 +93,17 @@ Salla API
 
 ---
 
-## Ehjezlee — Booking Platform (Customer App)
+## 📱 Ehjezlee — Booking Platform (Customer App)
 
-A production Flutter application supporting booking operations for multiple property types including hotels, chalets, resorts, and event halls.
+A production Flutter application supporting booking operations for:
 
-Key Features
+* Hotels
+* Chalets
+* Resorts
+* Farms
+* Event halls
+
+Key Features:
 
 * Search and availability workflows
 * Pricing and reservation management
@@ -160,17 +111,17 @@ Key Features
 * Dynamic UI rendering
 * Data synchronization and caching
 
-Tech
+Tech Stack:
 
 Flutter
 
 ---
 
-## Ehjezlee — Provider Application
+## 🧑‍💼 Ehjezlee — Provider Application
 
-A Flutter application used by service providers to manage reservations and daily booking operations.
+A Flutter application used by service providers to manage reservations and booking operations.
 
-Key Features
+Key Features:
 
 * Reservation tracking
 * Manual booking creation
@@ -178,73 +129,65 @@ Key Features
 * Blocked dates management
 * Calendar workflows
 
-Tech
+Tech Stack:
 
 Flutter
 
 ---
 
-## Muedat — Equipment & Services Marketplace
+## 🏗️ Muedat — Equipment & Services Marketplace
 
 A Flutter-based platform connecting customers with equipment providers and service technicians.
 
-Key Features
+Key Features:
 
 * Equipment booking workflows
 * Service request management
 * Provider scheduling
 * Communication workflows
 
-Tech
+Tech Stack:
 
 Flutter
 
 ---
 
-# Open Source & Frameworks
+## 🧩 Open Source & Frameworks
 
-## Reusable State & Caching Framework (Flutter)
+### Reusable State & Caching Framework (Flutter)
 
 A reusable state management and caching framework designed for production applications.
 
-The framework handles:
+Capabilities:
 
-* paginated data
-* single entity data
-* background refresh
-* cache expiration
-* lifecycle control
+* Paginated data handling
+* Background refresh
+* Cache expiration
+* Lifecycle control
+* Performance optimization
+* Reduced unnecessary API calls
 
-Key Capabilities
-
-* Stale-While-Revalidate caching strategy
-* unified state handling
-* performance optimization
-* reduced unnecessary API calls
-* production-ready architecture
-
-Tech
+Tech:
 
 Flutter
-Dart
 Caching strategies
 State management
 
 ---
 
-## Chatbot Booking Assistant
+## 🤖 Chatbot Booking Assistant
 
 Built a chatbot system integrated into the booking platform to simplify searching and booking properties.
 
 The chatbot allows users to:
 
-* search for properties
-* filter availability
-* select booking dates
-* complete reservation workflows
-* interact with real-time system data
+* Search for properties
+* Filter availability
+* Select booking dates
+* Complete reservation workflows
+* Interact with real-time system data
 
-Tech
+Tech:
 
 Flutter
 API integration
@@ -252,20 +195,34 @@ Dynamic UI rendering
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrwan-1\&show_icons=true)
+<p align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mrwan-1)
+<img src="https://github-readme-stats.vercel.app/api?username=mrwan-1&show_icons=true&theme=dark" />
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrwan-1&layout=compact&theme=dark" />
+
+</p>
 
 ---
 
-## Contact
+## 📫 How to Reach Me
 
-Email
+<p align="center">
 
-[marwan.alkhawlani.dev@gmail.com](mailto:marwan.alkhawlani.dev@gmail.com)
+<a href="mailto:marwan.alkhawlani.dev@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+</a>
 
-LinkedIn
+<a href="https://www.linkedin.com/in/marwan-al-khawlani">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+</a>
 
-https://www.linkedin.com/in/marwan-al-khawlani
+<a href="https://github.com/mrwan-1">
+<img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
+</a>
+
+</p>
