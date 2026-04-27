@@ -68,15 +68,22 @@ Key Responsibilities:
 
 <p align="center">
 
-<img src="https://cdn.simpleicons.org/shopify" height="40" />
-<img src="https://cdn.simpleicons.org/woocommerce" height="40" />
-<img src="https://cdn.simpleicons.org/wordpress" height="40" />
-<img src="https://cdn.simpleicons.org/googleads" height="40" />
-<img src="https://cdn.simpleicons.org/meta" height="40" />
-<img src="https://cdn.simpleicons.org/snapchat" height="40" />
-<img src="https://cdn.simpleicons.org/tiktok" height="40" />
+<img src="https://img.shields.io/badge/Shopify-95BF47?style=for-the-badge&logo=shopify&logoColor=white" />
+
+<img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white" />
+
+<img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Google%20Ads-4285F4?style=for-the-badge&logo=googleads&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Meta-0866FF?style=for-the-badge&logo=meta&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=black" />
+
+<img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
 
 </p>
+
 
 
 ---
