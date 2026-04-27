@@ -246,7 +246,7 @@ Dynamic UI rendering
 <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
 </a>
 
-<a href="https://www.linkedin.com/in/marwan-al-khawlani">
+<a href="https://www.linkedin.com/in/marwan-al-khawlani-902198251">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
 </a>
 
@@ -254,4 +254,13 @@ Dynamic UI rendering
 <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
 </a>
 
+<a href="https://t.me/Mr0_on2">
+<img src="https://img.shields.io/badge/Telegram-Message-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+</a>
+
+<a href="https://wa.me/00967776511448">
+<img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
+
 </p>
+
