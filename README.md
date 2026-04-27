@@ -76,7 +76,6 @@ Key Responsibilities:
 <img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white" />
 <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
 
-<br><br>
 
 <!-- Ads Platforms -->
 
