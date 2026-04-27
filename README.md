@@ -64,30 +64,9 @@ Key Responsibilities:
 
 ---
 
-### 🔗 Platform Integrations
-
 <p align="center">
-
-<img src="https://img.shields.io/badge/Salla-00AEEF?style=for-the-badge&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Zid-5C2D91?style=for-the-badge&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Shopify-95BF47?style=for-the-badge&logo=shopify&logoColor=white" />
-
-<img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white" />
-
-<img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Google%20Ads-4285F4?style=for-the-badge&logo=googleads&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Meta-0866FF?style=for-the-badge&logo=meta&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=black" />
-
-<img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
-
+Integrated with: 
+Shopify • WooCommerce • WordPress • Salla • Zid • Meta • Google Ads • Snapchat • TikTok
 </p>
 
 
