@@ -62,7 +62,28 @@ Key Responsibilities:
 * Integrated with advertising platforms
 * Built dashboards and automation features
 
-Tech Stack:
+---
+
+### 🔗 Platform Integrations
+
+<p align="center">
+
+<img src="https://cdn.simpleicons.org/shopify" height="48" alt="Shopify" />
+<img src="https://cdn.simpleicons.org/woocommerce" height="48" alt="WooCommerce" />
+<img src="https://cdn.simpleicons.org/wordpress" height="48" alt="WordPress" />
+
+<br><br>
+
+<img src="https://cdn.simpleicons.org/googleads" height="48" alt="Google Ads" />
+<img src="https://cdn.simpleicons.org/meta" height="48" alt="Meta Ads" />
+<img src="https://cdn.simpleicons.org/snapchat" height="48" alt="Snapchat Ads" />
+<img src="https://cdn.simpleicons.org/tiktok" height="48" alt="TikTok Ads" />
+
+</p>
+
+---
+
+### ⚙️ Tech Stack
 
 React.js
 Node.js
@@ -84,7 +105,7 @@ Key Features:
 * Real-time decision support
 * Integration with Salla platform
 
-Tech Stack:
+### ⚙️ Tech Stack
 
 Node.js
 React.js
@@ -111,7 +132,7 @@ Key Features:
 * Dynamic UI rendering
 * Data synchronization and caching
 
-Tech Stack:
+### ⚙️ Tech Stack
 
 Flutter
 
@@ -129,7 +150,7 @@ Key Features:
 * Blocked dates management
 * Calendar workflows
 
-Tech Stack:
+### ⚙️ Tech Stack
 
 Flutter
 
@@ -146,7 +167,7 @@ Key Features:
 * Provider scheduling
 * Communication workflows
 
-Tech Stack:
+### ⚙️ Tech Stack
 
 Flutter
 
